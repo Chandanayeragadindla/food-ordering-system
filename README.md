@@ -20,3 +20,10 @@ A Java console application for food ordering with user authentication.
 2. Create users table with email and password columns
 3. Update database credentials in DataBaseConnection.java
 4. Run Main.java
+
+   
+## Output
+![image](https://github.com/user-attachments/assets/36682393-a509-436e-9323-0bc60359640b)
+
+
+   
